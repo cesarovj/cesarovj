@@ -1,6 +1,6 @@
 ## Hey, I'm Cesar.
-I'm a self-taught developer that takes everyday as a learning experience!
-I like music, good food, going outside, and coding.
+I'm a self-taught developer, food enthusiast, and a active individual!
+
 
 ### Get In Touch
 <a href="mailto:cesar98v@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/cesarvillalvir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
