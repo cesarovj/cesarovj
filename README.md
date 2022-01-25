@@ -1,5 +1,5 @@
 ## Hey, I'm Cesar.
-I'm a self-taught developer, food enthusiast, and a active individual!
+I'm a self-taught developer, food enthusiast, and Team Apatow fan!
 
 
 ### Get In Touch
